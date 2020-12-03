@@ -1,0 +1,38 @@
+{
+    "sessions": {
+        "user": {
+          "email": "teste@teste.com",
+          "name": "Fulano Teste",
+          "id": "identity"
+        },
+        "token": "asdqwasasdasdeqwe"
+      },
+    "userCards": [
+        {
+            "id": 1,
+            "title": "Card 1",
+            "description": "lorem epislon lorem epislon"
+        },
+        {
+            "id": 2,
+            "title": "Card 2",
+            "description": "lorem epislon lorem epislon"
+        },
+        {
+            "id": 3,
+            "title": "Card 3",
+            "description": "lorem epislon lorem epislon"
+        },
+        {
+            "id": 4,
+            "title": "Card 4",
+            "description": "lorem epislon lorem epislon"
+        },
+        {
+            "id": 5,
+            "title": "Card 5",
+            "description": "lorem epislon lorem epislon"
+        }
+    ]
+
+}
